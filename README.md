@@ -1,10 +1,10 @@
-# php-debug
-PHP Debug
+# php-dumper
+PHP Dumper
 
 ## Install
 
 ```sh
-composer require kjmtrue/php-debug
+composer require kjmtrue/php-dumper
 ```
 
 ## Using
