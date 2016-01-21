@@ -1,0 +1,23 @@
+{
+    "name": "kjmtrue/php-dumper",
+    "description": "Dumper for PHP",
+    "require-dev": {
+        "symfony/var-dumper": "^3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kjmtrue",
+            "email": "kimtrien@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Kjmtrue\\": "src/"
+        }
+    }
+}
